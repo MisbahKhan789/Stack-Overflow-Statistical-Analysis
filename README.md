@@ -26,3 +26,7 @@
 	- Top_10_Tag_in_Answers_UsersReputation.R -> Answer RQ7- Part 2
 	- Top_10_Tag_in_Questions_UsersReputation.R -> Answer RQ7- Part 3
 
+
+
+* In every script please make sure to change the PATH to the one which has all the CSVs files
+* Make sure that Plotting_Distributions.R and Top_10_Tags_in_Questions_Answers_Comments.R are sharing the same workspace name
